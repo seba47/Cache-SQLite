@@ -6,9 +6,9 @@
   },
   "RechargeOptions":{
      "Options":[
-          {"Code": "300", "Amount": 3000,"Gift": ""},
-          {"Code": "200", "Amount": 2000,"Gift": ""},
-          {"Code": "100", "Amount": 1000,"Gift": ""}
+          {"Code": "3000", "Amount": 3000,"Gift": ""},
+          {"Code": "2000", "Amount": 2000,"Gift": "10 GB"},
+          {"Code": "1000", "Amount": 1000,"Gift": ""}
       ]
   }
 }
