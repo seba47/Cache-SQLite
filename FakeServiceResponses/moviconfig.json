@@ -8,7 +8,7 @@
      "Options":[
           {"Code": "300", "Selected": false, "Amount": 300,"Gift": "2 GB"},
           {"Code": "200", "Selected": false, "Amount": 200,"Gift": "1 GB"},
-          {"Code": "100", "Selected": false, "Amount": 100,"Gift": "2 GB"}
+          {"Code": "100", "Selected": false, "Amount": 100,"Gift": ""}
       ]
   }
 }
