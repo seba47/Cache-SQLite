@@ -1,0 +1,14 @@
+{
+  "TestDrive": {
+    "Enabled": false,
+    "ActiveUsersOnly": true,
+    "ResultsAvailable": true
+  },
+  "RechargeOptions":{
+     "Options":[
+          {"Code": "300", "Amount": 3000,"Gift": ""},
+          {"Code": "200", "Amount": 2000,"Gift": ""},
+          {"Code": "100", "Amount": 1000,"Gift": ""}
+      ]
+  }
+}
